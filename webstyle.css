@@ -1,0 +1,33 @@
+
+header {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  padding: 30px;
+  font-size: 50px;
+  color: firebrick;
+  font-family: 'Agbalumo';
+  text-shadow: 4px 4px 4px #abfe;
+}
+button {padding: 20px; font-size: 18px; border-radius: 25px; color: black; background-color: lightcoral;
+}
+body {background-color: floralwhite;
+}
+img {float: right; border-radius: 5px;
+}
+h1   {color: red; font-size: 25px; text-shadow: 1px 1px 0 black;
+}
+h3   {color: darksalmon; font-size: 25px; text-shadow: 1px 1px 0 black;
+}
+h4   {color: orangered; font-size: 60px; text-align: center; text-shadow: 2px 2px 0px black, 4px 4px 0px #888;
+}
+p    {color: black; font-size: 25px;
+}
+.photo {width: 600px; height: 400px;
+}
+.reviews {border-radius: 25px;
+}
+.controller {border-radius: 300px;
+}
+.me {border-radius: 50px;
+}
+.footer {font-family: "Lucida Console", "Courier New", monospace; font-size: 10px;
+}
